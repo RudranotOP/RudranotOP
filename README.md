@@ -18,7 +18,7 @@
   About Me
 </h1>
 
-<img align="right" alt="Coding" width="300" height="290" src="https://raw.githubusercontent.com/gist/77QingLiu/dbc61bc8997efe5448b62b919ddb88dc/raw/e30c7695f50b006a93e889ddeccf29a5b5ec7095/hello.gif">
+<img align="right" alt="Coding" width="290" height="270" src="https://raw.githubusercontent.com/gist/77QingLiu/dbc61bc8997efe5448b62b919ddb88dc/raw/e30c7695f50b006a93e889ddeccf29a5b5ec7095/hello.gif">
 
 - 🎯 **Name:** Rudra Prasad Lugun
 - 👨‍🎓 **3rd Year IT Undergrad** from IIIT Bhubaneswar.
