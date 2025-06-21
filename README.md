@@ -1,10 +1,8 @@
 <img align="right" alt="Coding" width="300"  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" >
 <br align="left">
-
 <p align="left">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px" alt="waving hand gif" />
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="70px" height="70px" alt="waving hand gif" />
 </p>
-
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=false&vCenter=true&width=700&lines=I+am+Rudra+Prasad+Lugun.;I+am+a+MERN+Stack+Developer;I+love+building+intelligent+web+apps;Based+in+Odisha%2C+India" alt="Typing SVG" /> 
 </p>
