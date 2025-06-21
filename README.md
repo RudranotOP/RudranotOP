@@ -116,14 +116,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true" width="47%" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudranotop&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="rudranotop" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudranotop&show_icons=true&theme=tokyonight&locale=en" alt="rudranotop" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudranotop" alt="rudranotop" /></p>
 
 
 
