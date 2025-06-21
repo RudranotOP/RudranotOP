@@ -20,10 +20,10 @@
 
 - 🎯 **Name:** Rudra Prasad Lugun
 - 👨‍🎓 **3rd Year IT Undergrad** from IIIT Bhubaneswar.
-- 👨‍💻 **Role:** Full-Stack MERN Developer
-- 🤖 **Interests:** AI/ML, Web Apps, Open Source
-- 🧠 **Currently Learning:** Express.js & Backend Scaling
-- 🛠️ **Tools I Use:** Git, GitHub, VS Code, Postman
+- 👨‍💻 **MERN Stack Developer**
+- 🤖 **Interests:** Web Apps, AI/ML
+- 🧠 **Constantly learning, building, and collaborating**
+- 🛠️ **Tools I Use:** Git, GitHub, VS Code
 - 🎨 **Design Stack:** Figma, Canva, TailwindCSS
 - 🚀 **Projects:** Building an AI-powered Meal Planner
 - 🎮 **Fun Fact:** I love gaming and experimenting with UIs!
@@ -113,11 +113,19 @@
   </tr>
 </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudranotop&show_icons=true&locale=en&layout=compact" alt="rudranotop" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudranotop&show_icons=true&locale=en" alt="rudranotop" /></p>
+## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudranotop&" alt="rudranotop" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
+
 
 
 <h3 align="left">Connect with me:</h3>
