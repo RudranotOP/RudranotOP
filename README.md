@@ -5,7 +5,7 @@
 </p>
 
 <p align="left"> 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=false&vCenter=true&width=700&lines=Hi!!+I'm+Rudra+Prasad+Lugun.;MERN+Stack+Developer;I+love+building+intelligent+web+apps;Based+in+India" alt="Typing SVG" /> 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=false&vCenter=true&width=700&lines=Hi!!+I'm+Rudra+Prasad+Lugun.;MERN+Stack+Developer;I+love+building+intelligent+web+apps.;Based+in+India." alt="Typing SVG" /> 
 </p>
 
 
