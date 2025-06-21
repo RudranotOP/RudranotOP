@@ -1,9 +1,9 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br align="left">
 <img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px" /> 
- <p align="left"> 
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=false&vCenter=true&width=700&lines=Hi!!+I'm+Rudra+Prasad+Lugun.;I'm+a+MERN+Stack+Developer;I+love+building+intelligent+web+apps;Based+in+India%2C+India" alt="Typing SVG" /> 
-</p>
+  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=false&vCenter=true&width=700&lines=Hi!!+I'm+Rudra+Prasad+Lugun.;I'm+a+MERN+Stack+Developer;I+love+building+intelligent+web+apps;Based+in+India%2C+India" alt="Typing SVG" /> 
+
 
 
 
