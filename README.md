@@ -2,7 +2,7 @@
 <br align="left">
 
 <h1 align="left">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px" height="60px" alt="waving hand gif" />
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="70px" height="70px" alt="waving hand gif" />
 
 
 <p align="left"> 
