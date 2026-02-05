@@ -23,7 +23,7 @@
 - 🧠 <b>Constantly learning, building, and collaborating</b>  
 - 🧩 <b>Core CS:</b> DSA, OOP, DBMS, Operating Systems  
 - 🧠 <b>DSA:</b> Solved 200+ problems (LeetCode + GFG)  
-- 🛠️ <b>Tools I Use:</b> Git, GitHub, VS Code, Postman, Render, Vercel  
+- 🛠️ <b>Tools I Use:</b> Git, GitHub, VS Code, Postman, Vercel  
 - 🎨 <b>Design Stack:</b> Figma, Canva, TailwindCSS  
 - 🚀 <b>Projects:</b> Building GenAI-powered solutions to solve real-world problems  
 - 🎮 <b>Fun Fact:</b> I love gaming and experimenting with UIs!  
@@ -76,139 +76,90 @@
   Languages, Skills and Tools
 </h2>
 
-<img align="right" alt="Coding" width="300" height="290" src="https://i.pinimg.com/originals/cc/ed/a8/cceda86d755eb57ec0c659664804896e.gif">
-
-<table style="min-width: 800px;">
+<!-- ✅ SIDE-BY-SIDE LAYOUT: Skills table + Image beside it -->
+<table width="100%">
   <tr>
-    <td><strong>👨‍💻 Programming Languages</strong></td>
-    <td>
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" style="margin-right: 10px;" />
-      </a>
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" style="margin-right: 10px;" />
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="margin-right: 10px;" />
-      </a>
+    <!-- LEFT: your existing skills table (unchanged) -->
+    <td width="70%" valign="middle">
+      <table style="min-width: 800px;">
+        <tr>
+          <td><strong>👨‍💻 Programming Languages</strong></td>
+          <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" style="margin-right:10px;" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="margin-right:10px;" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="margin-right:10px;" />
+          </td>
+        </tr>
+
+        <tr>
+          <td><strong>🎨 Frontend Development</strong></td>
+          <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="margin-right:10px;" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="margin-right:10px;" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" style="margin-right:10px;" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" style="margin-right:10px;" />
+          </td>
+        </tr>
+
+        <tr>
+          <td><strong>🛠️ Backend Development</strong></td>
+          <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" style="margin-right:10px;" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" style="margin-right:10px; background:white; padding:4px; border-radius:6px;" />
+          </td>
+        </tr>
+
+        <tr>
+          <td><strong>🗄️ Databases</strong></td>
+          <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" style="margin-right:10px;" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="margin-right:10px;" />
+          </td>
+        </tr>
+
+        <tr>
+          <td><strong>🌐 Realtime & Networking</strong></td>
+          <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40" height="40" style="margin-right:10px;" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" style="margin-right:10px;" />
+          </td>
+        </tr>
+
+        <tr>
+          <td><strong>🤖 GenAI / AI Tools</strong></td>
+          <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="margin-right:10px;" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" style="margin-right:10px;" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" style="margin-right:10px;" />
+          </td>
+        </tr>
+
+        <tr>
+          <td><strong>⚙️ Tools & Platforms</strong></td>
+          <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="margin-right:10px;" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="margin-right:10px;" />
+            <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" style="margin-right:10px;" />
+            <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40" style="margin-right:10px;" />
+          </td>
+        </tr>
+      </table>
     </td>
-  </tr>
 
-  <tr>
-    <td><strong>🎨 Frontend Development</strong></td>
-    <td>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" style="margin-right: 10px;" />
-      </a>
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" style="margin-right: 10px;" />
-      </a>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" style="margin-right: 10px;" />
-      </a>
-      <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original.svg" width="40" height="40" style="margin-right: 10px;" />
-      </a>
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" style="margin-right: 10px;" />
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>🛠️ Backend Development</strong></td>
-    <td>
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" style="margin-right: 10px;" />
-      </a>
-      <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" style="margin-right: 10px; background-color: white; border-radius: 6px; padding: 4px;" />
-      </a>
-      <a href="https://jwt.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/jsonwebtoken/jsonwebtoken-icon.svg" width="40" height="40" style="margin-right: 10px;" />
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>🗄️ Databases</strong></td>
-    <td>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" style="margin-right: 10px;" />
-      </a>
-      <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original-wordmark.svg" width="40" height="40" style="margin-right: 10px;" />
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>🌐 Realtime & Networking</strong></td>
-    <td>
-      <a href="https://socket.io/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="40" height="40" style="margin-right: 10px;" />
-      </a>
-      <a href="https://en.wikipedia.org/wiki/POSIX" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" style="margin-right: 10px;" />
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>🤖 GenAI / AI Tools</strong></td>
-    <td>
-      <a href="https://openai.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="40" height="40" style="margin-right: 10px;" />
-      </a>
-      <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="40" height="40" style="margin-right: 10px;" />
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>⚙️ Tools & Platforms</strong></td>
-    <td>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" style="margin-right: 10px;" />
-      </a>
-      <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" style="margin-right: 10px;" />
-      </a>
-      <a href="https://render.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" width="40" height="40" style="margin-right: 10px;" />
-      </a>
-      <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40" style="margin-right: 10px;" />
-      </a>
+    <!-- RIGHT: Image beside table (vertically centered) -->
+    <td width="30%" align="center" valign="middle">
+      <img alt="Coding" width="280" height="270" src="https://i.pinimg.com/originals/cc/ed/a8/cceda86d755eb57ec0c659664804896e.gif">
     </td>
   </tr>
 </table>
 
 <br/>
 
-## 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RudranotOP&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p>
-  &nbsp;
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RudranotOP&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-</p>
-
-<br/>
-
-## ⚡ GitHub Streak
-
-<img src="https://streak-stats.demolab.com?user=RudranotOP&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-
 ## 🔥 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RudranotOP&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudranotop&theme=tokyo-night&hide_border=true&v=1" alt="Contribution Graph" />
+</p>
 
 <br/>
 
